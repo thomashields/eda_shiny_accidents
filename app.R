@@ -1,3 +1,13 @@
+# ============================================================
+# Shiny App: South Dakota Traffic Fatalities
+# Years: 2023 and 2024
+#
+# Purpose:
+#   1. plotly graph of counties in SD as a heat map of crash fatalities per 100K
+#   2. Choose to filter by year, county, crash information
+#   3. A histogram of the year, county, crash info (plotly just takes the year)
+# ============================================================
+
 
 # -----------------------------------------
 # South Dakota Traffic Fatalities
