@@ -4,6 +4,8 @@ This project explores fatal traffic crashes in South Dakota during 2023 and 2024
 
 An interactive Shiny application allows users to examine county fatality rates and explore patterns in fatal crashes across different variables.
 
+- Shiny App Link: https://thomasshields.shinyapps.io/Assignment10_thomas_shields/
+
 # Dashboard Features
 
 ## County Map
